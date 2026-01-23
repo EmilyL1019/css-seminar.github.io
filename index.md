@@ -32,8 +32,9 @@ This course is graded on a Satisfactory/Unsatisfactory basis.
 To pass the course students must earn:
 - 10 present or active seminar attendance ratings
 - 12 atttempted or complete with at least 10 complete ratings on preparation assignments
-- 28 total units of reflection and synthesis (units defined below)
+- 28[^indev] total units of reflection and synthesis (units defined below)
 
+[^indev]: this number may change
 
 ### Seminar Attendance
 
@@ -67,12 +68,18 @@ Submit answers to the questions, using this template
 
 Basic prep plus read 1-3 papers by the author to get a more detailed understanding of what to expect. Include a short evaluation of the paper(s) read to prepare 
 
+Submit using the template:
+
+::::{literalinclude} prepare/advanced.md
+::::::
+
+
 ### Reflection Activites
 
 You can complete any combination of the following, including repeating the same assignment for different speakers to reach the number of required reflections. 
 
 - Exit ticket: 1 unit, evaluated as complete or not
-- Deep reflection[^revopt] : up to 7 units
+- Deep reflection[^revopt] : up to 7[^indev] units
 
 [^revopt]: revisions may be required to earn full number of units. Submit early enough to earn the full credit
 
@@ -96,7 +103,8 @@ Write ~.5-1 page
 
 ### Synthesis Activities 
 
-You can complete any of the following, each for up to 14 units: 
+You can complete any of the following, each for up to 14[^indev] units: 
+
 
 - Develop a [talk schema](#schema) [^iterative] 
 - Write a [guide](#guide) for future students understanding talks outside their area [^iterative]
