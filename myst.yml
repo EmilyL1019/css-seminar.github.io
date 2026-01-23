@@ -1,0 +1,17 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: b45f120d-442c-4733-a5cc-d38aafd35daf
+  title: URI CS&S PhD Seminar Course
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/css-seminar/css-seminar.github.io
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+  exclude:
+    - prepare/
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
