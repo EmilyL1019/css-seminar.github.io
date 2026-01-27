@@ -32,7 +32,7 @@ This course is graded on a Satisfactory/Unsatisfactory basis.
 To pass the course students must earn:
 - 10 present or active seminar attendance ratings
 - 12 atttempted or complete with at least 10 complete ratings on preparation assignments
-- 28[^indev] total units of reflection and synthesis (units defined below)
+- 24 total units of reflection and synthesis (units defined below). 
 
 [^indev]: this number may change
 
@@ -79,31 +79,29 @@ Submit using the template:
 You can complete any combination of the following, including repeating the same assignment for different speakers to reach the number of required reflections. 
 
 - Exit ticket: 1 unit, evaluated as complete or not
-- Deep reflection[^revopt] : up to 7[^indev] units
+- Deep reflection[^revopt] : up to 6 units
 
-[^revopt]: revisions may be required to earn full number of units. Submit early enough to earn the full credit
+[^revopt]: revisions may be required to earn full number of units. Submit early enough to earn the full credit. Revisions
 
 
 #### Exit Ticket
 
-::::::{warning}
-Details will be added later
-:::::::
-
-Answer 2-3 short questions
+Answer the short questions with a few statements, these can be bullets
+::::::{literalinclude} reflect/exit.md
+::::::::
 
 
 #### Deep Reflection
 
-::::::{warning}
-Details will be added later
-:::::::
+This should be more complete thoughts. This should be complete sentences and may require some revision.  You will be able to revise submissions as long as they are submitted with enough time. 
 
-Write ~.5-1 page 
+::::::{literalinclude} reflect/debreif.md
+::::::::
+
 
 ### Synthesis Activities 
 
-You can complete any of the following, each for up to 14[^indev] units: 
+You can complete any of the following, each for up to 12 units: 
 
 
 - Develop a [talk schema](#schema) [^iterative] 
@@ -120,7 +118,7 @@ All of these will be evaluated for depth of thinking and use of relevant example
 #### Talk Schema
 
 ::::::{warning}
-Details  will be added later
+Details  will be added later. If you have ideas and want to discuss before this is updated just reach out. 
 :::::::
 
 Write out how you organize talks conceptually and use it to categorize the talks this semester. 
@@ -129,14 +127,14 @@ Write out how you organize talks conceptually and use it to categorize the talks
 #### Seminar Guide 
 
 ::::::{warning}
-Details will be added later
+Details will be added later. If you have ideas and want to discuss before this is updated just reach out. 
 :::::::
 
 (tips)=
 #### Talk Preparation Tips
 
 ::::::{warning}
-Details will be added later
+Details will be added later. If you have ideas and want to discuss before this is updated just reach out. 
 :::::::
 
 
