@@ -2,7 +2,6 @@
 
 ## My expectations
 
-<!-- 
 Answer the following:
 What type of talk to you expect? (categorize your expectations on at least two dimensions)
 I expect this talk to highlight ways to ethnically design AI models while keeping many of the major issues in mind. She will emphasize the importance of the software developer's deep understanding of these issues. She will also go over the criteria of what determines a good and poor AI design.
