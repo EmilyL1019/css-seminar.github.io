@@ -1,4 +1,4 @@
-# <Harini Suresh 1-30-2026> Preparation
+# Harini Suresh 1-30-2026 Preparation
 
 ## My expectations
 
